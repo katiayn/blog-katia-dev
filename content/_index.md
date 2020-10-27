@@ -1,7 +1,7 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: ''
+  heading: Hello World! I'm Kátia Nakamura :)
+  maxWidthPX: "652"
 seo:
   image: ''
 
